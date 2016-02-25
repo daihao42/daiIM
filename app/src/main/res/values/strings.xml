@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiduyunPush</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">18bG9V4cZc2rNUh02ea3o1VQ</string>
+    <string name="action_addFriend">添加</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+</resources>
